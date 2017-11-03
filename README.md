@@ -1,2 +1,4 @@
-# materialize-angular-template
-As webdeveloper, I'd like to have a web template in order to use that for my projects
+# AngularExample
+
+This project is a template to show how to configure an angular 4 project with angular-cli and angular2-materialize. 
+Please have a look at the commits.
